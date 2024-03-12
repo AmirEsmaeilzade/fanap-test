@@ -1,0 +1,16 @@
+{
+  "socials": [
+    {
+      "id": "0a2e02fff7496",
+      "social_name": "اینستاگرام",
+      "social_id": "67745554674",
+      "social_link": "https://stackoverflow.com"
+    },
+    {
+      "id": "e5f6e990cbe0e",
+      "social_name": "واتساپ",
+      "social_id": "666544566464",
+      "social_link": "https://www.npmjs.com"
+    }
+  ]
+}
